@@ -1,4 +1,4 @@
-# 🏥 BookMyDoc - Book My Doctor
+# 🏥 BookMyDoctor
 
 **Modern healthcare appointment booking platform with integrated medicine store** built with Next.js, featuring virtual consultations, in-person visits, pharmacy integration, and seamless doctor-patient connections.
 <div style="border-left: 2px solid gray; padding-left: 10px;">
@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-**Try BookMyDoc now:**  [book-my-doctor-two.vercel.app](https://book-my-doctor-two.vercel.app/)
+**Try BookMyDoctor now:**  [book-my-doctor-two.vercel.app](https://book-my-doctor-two.vercel.app/)
 
 <div style="border-left: 2px solid gray; padding-left: 10px;">
 <span style="font-weight:bold;">🚧 Demo Limitations:</span>  The live demo showcases core appointment booking functionality. Medicine store and several advanced features are placeholder implementations only.
